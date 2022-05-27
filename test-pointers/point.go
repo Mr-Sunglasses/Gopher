@@ -14,3 +14,4 @@ func main() {
 	fmt.Println("The addreess of ptr is ", ptr)
 	fmt.Println("The value of ptr is", *ptr)
 }
+a
